@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
-    printf("First clone");
+    printf("First Code!");
+    printf("Hello World");
 }
